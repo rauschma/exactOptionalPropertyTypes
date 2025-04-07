@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "license": "Unlicense",
+  "dependencies": {
+    "zod": "^3.24.2"
+  }
+}
